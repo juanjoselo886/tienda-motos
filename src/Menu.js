@@ -6,10 +6,10 @@ function Menu() {
     <nav className="menu-navegacion">
       <h2 className="logo">🏍️ MotoSpeed</h2>
       <ul>
-        <li>Inicio</li>
-        <li>Modelos</li>
-        <li>Accesorios</li>
-        <li>Contacto</li>
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#modelos">Modelos</a></li>
+        <li><a href="#accesorios">Accesorios</a></li>
+        <li><a href="#contacto">Contacto</a></li>
       </ul>
     </nav>
   );
